@@ -85,7 +85,7 @@ AI-Interview는 구직자의 면접 역량 강화를 목표로 설계된 AI 기�
 
 
 ### 2. 동영상 데모 (사진을 클릭해주세요)
-[![데모 시연](./images/demo_scrren.JPG)](https://www.youtube.com/watch?v=IgEfCTvjx6E)
+[![데모 시연](./images/demo_screen.JPG)](https://www.youtube.com/watch?v=IgEfCTvjx6E)
 
 
 ## 🎯 **Project Impact | 프로젝트 효용**
