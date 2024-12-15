@@ -72,8 +72,8 @@ AI-Interview는 구직자의 면접 역량 강화를 목표로 설계된 AI 기�
 ---
 
 ## 📖 **Usage | 사용 방법**
-- 피드백 페이지 실행은 `Web/backend/main.py`에서 실행합니다.  
-- 피드백 구현 코드는 `Web/backend/feedback.py`에서 확인합니다.
+- 피드백 페이지 실행은 `Web/Backend/main.py`에서 실행합니다.  
+- 피드백 구현 코드는 `Web/Backend/feedback.py`에서 확인합니다.
 - 문장 평가 모델은  `notebooks/Sentence_Evaluation.ipynb`에서 실행합니다.
 - 음성 감정 분석은  `notebooks/Voice_emotion_analysis.ipynb`에서 실행합니다.
 ---
