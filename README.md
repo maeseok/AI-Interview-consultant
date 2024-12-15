@@ -44,9 +44,10 @@ AI-Interview는 구직자의 면접 역량 강화를 목표로 설계된 AI 기�
 ---
 
 ## 📁 **Key Directories and Files | 주요 디렉토리 및 파일**
-- `notebooks/`: HuBERT 및 KoBERT 기반 모델 학습 Jupyter 노트북  
+- `presentation/`: 주제 선정 배경, 피드백 구체화 등을 포함한 발표 자료
+- `notebooks/`: HuBERT 및 GRU 기반 모델 학습 Jupyter notebook  
 - `scripts/`: 데이터 전처리 및 분석 스크립트  
-- `images/`: 이미지 관련 디렉토리  
+- `images/`: 이미지 디렉토리  
 - `Web/`: 백엔드(flask) 및 프론트엔드(react) 코드 
 
 ![프로젝트 구조](./images/Model_structures.JPG)
@@ -74,8 +75,8 @@ AI-Interview는 구직자의 면접 역량 강화를 목표로 설계된 AI 기�
 ## 📖 **Usage | 사용 방법**
 - 피드백 페이지 실행은 `Web/Backend/main.py`에서 실행합니다.  
 - 피드백 구현 코드는 `Web/Backend/feedback.py`에서 확인합니다.
-- 문장 평가 모델은  `notebooks/Sentence_Evaluation.ipynb`에서 실행합니다.
-- 음성 감정 분석은  `notebooks/Voice_emotion_analysis.ipynb`에서 실행합니다.
+- 문장 평가 모델은  `notebooks/Sentence_Evaluation.ipynb`에서 확인합니다.
+- 음성 감정 분석은  `notebooks/Voice_emotion_analysis.ipynb`에서 확인합니다.
 ---
 
 ## 📽️ Demonstration | 데모 시연
@@ -84,7 +85,11 @@ AI-Interview는 구직자의 면접 역량 강화를 목표로 설계된 AI 기�
 ![결과 페이지](./images/Feedback.jpg)
 
 
-### 2. 동영상 데모 (사진을 클릭해주세요)
+### 2. Flowchart
+![플로우 차트](./images/Flowchart.JPG)
+
+
+### 3. 동영상 데모 (사진을 클릭해주세요)
 [![데모 시연](./images/demo_screen.JPG)](https://www.youtube.com/watch?v=IgEfCTvjx6E)
 
 
