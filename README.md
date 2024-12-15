@@ -46,7 +46,7 @@ AI-Interview는 구직자의 면접 역량 강화를 목표로 설계된 AI 기�
 ## 📁 **Key Directories and Files | 주요 디렉토리 및 파일**
 - `notebooks/`: HuBERT 및 KoBERT 기반 모델 학습 Jupyter 노트북  
 - `scripts/`: 데이터 전처리 및 분석 스크립트  
-- `images/`: 이미지 관련 디렉터리  
+- `images/`: 이미지 관련 디렉토리  
 - `Web/`: 백엔드(flask) 및 프론트엔드(react) 코드 
 
 ![프로젝트 구조](./images/Model_structures.JPG)
